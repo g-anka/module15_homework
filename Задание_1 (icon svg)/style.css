@@ -1,0 +1,24 @@
+.test-btn {
+  padding: 0;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  box-shadow: none;
+  cursor: pointer;
+  
+  display: flex;
+  margin: 5px 10px;
+  padding: 10px 80px;
+  border-radius: 1px;
+  line-height: 15px;
+  line-width: 50px;
+  color: white;
+  background: #315efb;
+  transition: 0.3s;
+}
+
+svg {
+  height: 25px;
+  width: 30px;
+}
